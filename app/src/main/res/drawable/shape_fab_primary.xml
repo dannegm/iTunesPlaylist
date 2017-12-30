@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- For disabled -->
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/shape_bg_fab_primary_disabled" />
+    <!-- For for pressed -->
+    <item
+        android:state_pressed="true"
+        android:state_enabled="true"
+        android:drawable="@drawable/shape_bg_fab_primary_pressed" />
+    <!-- For for focused -->
+    <item
+        android:state_focused="true"
+        android:state_enabled="true"
+        android:drawable="@drawable/shape_bg_fab_primary_focused" />
+    <!-- For normal -->
+    <item
+        android:state_enabled="true"
+        android:drawable="@drawable/shape_bg_fab_primary_normal" />
+</selector>

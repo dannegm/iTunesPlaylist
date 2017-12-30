@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C343F</color>
+    <color name="colorPrimaryDark">#20252E</color>
+    <color name="colorPrimaryLight">#555d6a</color>
+    <color name="colorAccent">#70B9EB</color>
+
+    <color name="ripple">#aeaeae</color>
+
+    <color name="c_white">#ffffff</color>
+    <color name="c_bg">#fafafa</color>
+    <color name="c_gray_light">#bbbbbb</color>
+    <color name="c_black">#000000</color>
+    <color name="c_transparent">#00000000</color>
+
+    <color name="c_black_op">#88000000</color>
+
+    <color name="c_blue_light">#DCF6F9</color>
+    <color name="c_blue_mid">#54D0E0</color>
+    <color name="c_blue_mid_press">#1EBBD1</color>
+    <color name="c_blue_dark">#5C90D2</color>
+
+    <color name="c_green_primary">#46C37B</color>
+    <color name="c_green_secondary">#388e3c</color>
+    <color name="c_green_lighter">#C8E6C9</color>
+
+    <color name="c_red_primary">#D26A5C</color>
+    <color name="c_red_secondary">#D32F2F</color>
+    <color name="c_red_lighter">#FFCDD2</color>
+
+    <color name="c_blue_primary">#70B9EB</color>
+    <color name="c_blue_secondary">#1976D2</color>
+    <color name="c_blue_lighter">#BBDEFB</color>
+
+    <color name="c_yellow_primary">#F3B760</color>
+    <color name="c_yellow_secondary">#FBC02D</color>
+    <color name="c_yellow_lighter">#FFF9C4</color>
+
+    <color name="c_grey_primary">#607D8B</color>
+    <color name="c_grey_secondary">#455a64</color>
+    <color name="c_grey_lighter">#CFD8DC</color>
+</resources>

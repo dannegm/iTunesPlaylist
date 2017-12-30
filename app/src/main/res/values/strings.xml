@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Michael Jackson</string>
+    <string name="app_description">The Sounds of his Life</string>
+
+    <string name="title">Michael Jackson</string>
+    <string name="slogan">The Sounds of his Life</string>
+
+    <!-- Global strings -->
+    <string name="ok">Accept</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="version">Version</string>
+    <string name="press_to_exit">Press back again to exit</string>
+    <string name="error_ocurred">Unknow error</string>
+    <string name="no_data">No data</string>
+    <string name="no_connection_alert">Verify your internet connection</string>
+    <string name="no_connection_message">No internet connection</string>
+    <string name="timeout_message">Waiting time exceeded</string>
+
+    <!-- Permissions -->
+    <string name="permission_allow">Permissions granted</string>
+    <string name="permission_deny">Permissions denied</string>
+
+    <!-- General -->
+    <string name="text_playlist">Playlist</string>
+    <string name="back_to_playlist">backt to the Playlist</string>
+    <string name="purchase">Purchase on iTines</string>
+    <string name="dollar">$</string>
+
+</resources>
